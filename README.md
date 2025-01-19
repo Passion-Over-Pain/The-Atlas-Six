@@ -22,6 +22,9 @@ Welcome to the repository for **The Atlas Six**, an immersive RPG game where cho
 
 ## Project Vision
 
+>[!Caution]
+>The Atlas Six is a desktop only game. Currently the project is not open-source. I have left the contribution procedure as I plan to make it open-source after public release.
+
 The **Atlas Six** is a story-driven RPG set in a world of magic, ancient mysteries, and alliances that are not always what they seem. The journey revolves around the choices made by the player and the evolving relationships within the party. At the heart of the game, you'll find the **Atlas Six**—a group of heroes bound by a common fate, though each of them carries their own burdens.
 
 In a world where secrets lie behind decisions made, one thing is certain: not all allies are as trustworthy as they seem, and the line between friend and foe is often blurred. Will you forge an alliance, uncover the truth, or destroy everything in your path?
@@ -73,8 +76,8 @@ Each member of the **Atlas Six** has a distinct background, personality, and rol
 
 ## File Structure
 
-The project follows a simple structure:
-```yaml
+The project follows this File structure:
+```txt
 +---Audio  
 |   +---Effects  
 |       Contains sound effects used in the game, such as attack sounds, environmental noises, and action-based audio cues.
@@ -175,9 +178,9 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ---
 
-## Footer
-
-*May your choices guide you well... but remember, not all paths lead to salvation.*
+## End of Document
+> [!Tip]
+> The road is never easy but one we must walk. A Passion over Pain product.
 
 For questions or support, contact the developer at **[Email](mailto:tinomhedziso21@gmail.com)**.
 
