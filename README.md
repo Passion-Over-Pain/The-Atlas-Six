@@ -182,7 +182,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 > [!Tip]
 > The road is never easy but one we must walk. A Passion over Pain product.
 
-For questions or support, contact the developer at **[Email](mailto:tinomhedziso21@gmail.com)**.
+For questions or support, contact the me at **[Email](mailto:tinomhedziso21@gmail.com)**.
 
 ---
 
