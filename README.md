@@ -177,13 +177,11 @@ If you want to contribute to the game, feel free to fork the repository, submit 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute the game as long as proper credit is given. See the `LICENSE` file for more details.
 
 ---
-
-## End of Document
 > [!Tip]
 > The road is never easy but one we must walk. A Passion over Pain product.
 
 For questions or support, contact the me at **[Email](mailto:tinomhedziso21@gmail.com)**.
-
+## End of Document
 ---
 
 
