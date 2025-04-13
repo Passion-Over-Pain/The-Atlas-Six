@@ -1,9 +1,11 @@
 
 ![Banner 1](https://github.com/user-attachments/assets/392bcbbd-174d-4cbe-a7af-4f7643e90b7a)
 
-Welcome to the repository for **The Atlas Six**, an immersive RPG game where choices shape the destiny of a diverse group of characters navigating a mystical world. This document will guide you through the structure, features, and current state of the project. Dive in if you dare, and may your journey be as enigmatic as the forces that bind the characters of **The Atlas Six**.
+Welcome to the **preview** repository for **The Atlas Six**, an immersive RPG game where choices shape the destiny of a diverse group of characters navigating a mystical world. This document will guide you through the structure, features, and current state of the project. Dive in if you dare, and may your journey be as enigmatic as the forces that bind the characters of **The Atlas Six**.
 
 ---
+>[!Caution]
+>This is the **preview** repository. The game is still in development :).
 
 ## Table of Contents
 
