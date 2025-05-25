@@ -5,7 +5,7 @@ Welcome to the **preview** repository for **The Atlas Six**, an immersive RPG ga
 
 ---
 >[!Caution]
->This is the **preview** repository. The game is still in development :).
+>This is the **preview** repository. The game is still in development. All current files are hidden as of now.
 
 ## Table of Contents
 
