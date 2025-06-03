@@ -135,7 +135,7 @@ To get started with the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/The-Atlas-Six.git
+   git clone https://github.com/Passion-Over-Pain/The-Atlas-Six.git
 
 - Or Download the .zip folder and extract all the files.
 Navigate into the project folder:
