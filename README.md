@@ -13,10 +13,7 @@ Welcome to the **preview** repository for **The Atlas Six**, an immersive RPG ga
 - [Game Features](#game-features)
 - [Character Overview](#character-overview)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
 - [Installation Guide](#installation-guide)
-- [Development Setup](#development-setup)
-- [Notes and Tips](#notes-and-tips)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -76,96 +73,16 @@ Each member of the **Atlas Six** has a distinct background, personality, and rol
 ---
 
 
-## File Structure
-
-The project follows this File structure:
-```txt
-+---Audio  
-|   +---Effects  
-|       Contains sound effects used in the game, such as attack sounds, environmental noises, and action-based audio cues.
-|   +---Music 
-|       Contains music used in the game.
-
-+---Errors XD  
-|      A folder for debugging or logging errors during development. This stores screenshots, logs, or test files related to issues encountered. Also just a funny place to store bugs
-
-+---Images  
-|   +---Assets  
-|   |   +---Actions  
-|   |       Images representing player or enemy actions, such as attack animations or interaction visuals.  
-|   |   +---EnemyAttacks  
-|   |       Visuals for enemy attack animations or effects.  
-|   |   +---Icons  
-|   |       Small graphical elements, such as ability icons, status effects, or inventory indicators.  
-|   |   +---Skills  
-|   |       Artwork for various skills available to the characters, showcasing their abilities.  
-|   |   +---Stats  
-|   |       Graphics representing character or enemy stats like health, mana, or charisma.  
-|   +---Banners  
-|       Larger images used for promotional materials within the game.  
-|   +---Character Profile Background  
-|       Background visuals for character profiles or menu screens that highlight character details.  
-|   +---Characters  
-|   |   +---Classes  
-|   |       Character designs or concept art based on their classes, e.g., warrior, mage, healer.  
-|   |   +---Outfits  
-|   |       Variations of character appearances, such as alternate outfits or armor sets.  
-|   +---Choices  
-|       Visual representations for player decision points, emphasizing the branching storyline.  
-|   +---Cut Images  
-|       Cropped or trimmed images used in specific parts of the UI.  
-
-+---Old-Code  
-|       Deprecated or backup code from earlier versions of the game. Useful for referencing previous implementations or restoring older features.
-
-+---out  
-|       A folder for build outputs, storing compiled or packaged game files for distribution or testing. Currently inlcudes Lines counted in the workspace.
-
-+---Videos  
-|       Contains cinematic sequences, cutscenes, or instructional videos integrated into the game.
-
-
-```
-
----
-
 ## Installation Guide
 
-To get started with the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Passion-Over-Pain/The-Atlas-Six.git
-
-- Or Download the .zip folder and extract all the files.
-Navigate into the project folder:
-
-cd The-Atlas-Six
-Open the index.html file in your browser to play the game.
-
-
-## Development Setup
-
-For developers looking to contribute or set up the game environment:
-
-1. Ensure you have a code editor such as [Visual Studio Code](https://code.visualstudio.com/).
-2. If you are planning to use Firebase, make sure to set up Firebase Authentication and configure the API keys in the `js/firebase.js` file.
-3. If you want to implement Tauri for desktop packaging, follow the instructions in the Tauri setup documentation for proper C++ dependencies.
+The game is not out yet :).
 
 ---
 
-## Notes and Tips
-
-- The game utilizes complex branching paths, so any changes to the storyline JSON structure should be tested thoroughly.
-- Ensure all animations and interactive UI elements are optimized for low-end PCs (4GB RAM, i3 processors).
-- Keep an eye on performance when implementing complex combat mechanics and memory mini-games.
-- The current file size is approximately **900MB** due to assets like images and sounds; consider using compression tools if needed.
-
----
 
 ## Contributing
-
-If you want to contribute to the game, feel free to fork the repository, submit pull requests, or report issues. Here's how you can get involved:
+*Coming Soon* <br>
+If you want to contribute to the game, feel free to fork this repository, submit pull requests, or report issues. Here's how you can get involved:
 
 1. Fork the repository
 2. Create a new branch for your feature or fix
