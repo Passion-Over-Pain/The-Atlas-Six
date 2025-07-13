@@ -46,14 +46,15 @@ Each member of the **Atlas Six** has a distinct background, personality, and rol
 
 ### The Atlas Six
 
-| Name      | Role         | Description                                             |
-|-----------|--------------|---------------------------------------------------------|
-| Player      | ???          | This is your character. You choose to play however you want.                |
-| Maylyn      | Archer       | Known as "The Eye" for her exceptional accuracy. She often tends to tease you but your friendship is parellel to the Sun and Moon.|
-| Jade    | Healer       | A nurturing healer with a deep connection to water magic. She sees you as the family she adores.|
-| Ryan | Titan          | A formidable warrior and general but most importantly your close friend.        |
-| Aiyana    | Phoenix          | Your strategist, mentor and even former enemy. You are Aiyana's greatest student|
-| The Sixth Atlas     | ???   | A friend or foe you shall encounter in the Known World. Based on your decisions.|
+| Name | Role | Description |
+|------|------|-------------|
+| <img src="Images/Characters/player.png" width="100px" /><br>**Player** | ??? | This is your character. You choose to play however you want. |
+| <img src="Images/Characters/maylyn.png" width="100px" /><br>**Maylyn** | Archer | Known as "The Eye" for her exceptional accuracy. She often tends to tease you but your friendship is parallel to the Sun and Moon. |
+| <img src="Images/Characters/jade.png" width="100px" /><br>**Jade** | Healer | A nurturing healer with a deep connection to water magic. She sees you as the family she adores. |
+| <img src="Images/Characters/ryan.png" width="100px" /><br>**Ryan** | Titan | A formidable warrior and general but most importantly your close friend. |
+| <img src="Images/Characters/aiyana.png" width="100px" /><br>**Aiyana** | Phoenix | Your strategist, mentor and even former enemy. You are Aiyana's greatest student. |
+| <img src="Images/Characters/sixth_atlas.png" width="100px" /><br>**The Sixth Atlas** | ??? | A friend or foe you shall encounter in the Known World. Based on your decisions. |
+
 
 >[!Note]
 > Other characters will be revealed through the progression of the game. Trust is earned, not freely given.
