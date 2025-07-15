@@ -44,15 +44,19 @@ In a world where secrets lie behind decisions made, one thing is certain: not al
 
 Each member of the **Atlas Six** has a distinct background, personality, and role to play in the unfolding drama. However, not all is as it seems. Who can you trust when the darkness looms closer? 
 
+
+
+
+
 ### The Atlas Six
 
 | Name | Role | Description |
 |------|------|-------------|
 | <img src="Images/Characters/player.png" width="100px" /><br>**Player** | ??? | This is your character. You choose to play however you want. |
-| <img src="Images/Characters/maylyn.png" width="100px" /><br>**Maylyn** | Archer | Known as "The Eye" for her exceptional accuracy. She often tends to tease you but your friendship is parallel to the Sun and Moon. |
-| <img src="Images/Characters/jade.png" width="100px" /><br>**Jade** | Healer | A nurturing healer with a deep connection to water magic. She sees you as the family she adores. |
-| <img src="Images/Characters/ryan.png" width="100px" /><br>**Ryan** | Titan | A formidable warrior and general but most importantly your close friend. |
-| <img src="Images/Characters/aiyana.png" width="100px" /><br>**Aiyana** | Phoenix | Your strategist, mentor and even former enemy. You are Aiyana's greatest student. |
+| <img src="https://github.com/user-attachments/assets/b4df8d20-94e3-446b-b567-22897d6cfd13" width="100px" /><br>**Maylyn** | Archer | Known as "The Eye" for her exceptional accuracy. She often tends to tease you but your friendship is parallel to the Sun and Moon. |
+| <img src="https://github.com/user-attachments/assets/597294dd-c299-4015-ac96-2a902f321804" width="100px" /><br>**Jade** | Healer | A nurturing healer with a deep connection to water magic. She sees you as the family she adores. |
+| <img src="https://github.com/user-attachments/assets/d1665749-2252-4aea-b162-948019de4aef" width="100px" /><br>**Ryan** | Titan | A formidable warrior and general but most importantly your close friend. |
+| <img src="https://github.com/user-attachments/assets/a7d4fa39-49fc-40c2-b29d-45e4bfba5f7c" width="100px" /><br>**Aiyana** | Phoenix | Your strategist, mentor and even former enemy. You are Aiyana's greatest student. |
 | <img src="Images/Characters/sixth_atlas.png" width="100px" /><br>**The Sixth Atlas** | ??? | A friend or foe you shall encounter in the Known World. Based on your decisions. |
 
 
