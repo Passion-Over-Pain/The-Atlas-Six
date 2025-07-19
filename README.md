@@ -1,5 +1,6 @@
 
-![Banner 1](https://github.com/user-attachments/assets/392bcbbd-174d-4cbe-a7af-4f7643e90b7a)
+![Banner](https://github.com/user-attachments/assets/e9ea9f36-7ce9-4b0c-b612-6a90d642ff04)
+
 
 Welcome to the **preview** repository for **The Atlas Six**, an immersive RPG game where choices shape the destiny of a diverse group of characters navigating a mystical world. This document will guide you through the structure, features, and current state of the project. Dive in if you dare, and may your journey be as enigmatic as the forces that bind the characters of **The Atlas Six**.
 
@@ -47,16 +48,15 @@ Each member of the **Atlas Six** has a distinct background, personality, and rol
 
 
 
-
 ### The Atlas Six
 
 | Name | Role | Description |
 |------|------|-------------|
 | <img src="Images/Characters/player.png" width="100px" /><br>**Player** | ??? | This is your character. You choose to play however you want. |
-| <img src="https://github.com/user-attachments/assets/b4df8d20-94e3-446b-b567-22897d6cfd13" width="100px" /><br>**Maylyn** | Archer | Known as "The Eye" for her exceptional accuracy. She often tends to tease you but your friendship is parallel to the Sun and Moon. |
-| <img src="https://github.com/user-attachments/assets/597294dd-c299-4015-ac96-2a902f321804" width="100px" /><br>**Jade** | Healer | A nurturing healer with a deep connection to water magic. She sees you as the family she adores. |
-| <img src="https://github.com/user-attachments/assets/d1665749-2252-4aea-b162-948019de4aef" width="100px" /><br>**Ryan** | Titan | A formidable warrior and general but most importantly your close friend. |
-| <img src="https://github.com/user-attachments/assets/a7d4fa39-49fc-40c2-b29d-45e4bfba5f7c" width="100px" /><br>**Aiyana** | Phoenix | Your strategist, mentor and even former enemy. You are Aiyana's greatest student. |
+| <img src="https://github.com/user-attachments/assets/5f85a5c3-f77f-4613-a21c-39e5f1b5cd62" width="100px" /><br>**Maylyn** | Archer | Known as "The Eye" for her exceptional accuracy. She often tends to tease you but your friendship is parallel to the Sun and Moon. |
+| <img src="https://github.com/user-attachments/assets/367caf47-5dcd-486a-a963-94d5f3423621" width="100px" /><br>**Jade** | Healer | A nurturing healer with a deep connection to water magic. She sees you as the family she adores. |
+| <img src="https://github.com/user-attachments/assets/5dfe28e9-25bf-45ec-a611-8449dc8cd395" width="100px" /><br>**Ryan** | Titan | A formidable warrior and general but most importantly your close friend. |
+| <img src="https://github.com/user-attachments/assets/44c59549-95db-4c5b-9d09-2c29cdafcb2c" width="100px" /><br>**Aiyana** | Phoenix | Your strategist, mentor and even former enemy. You are Aiyana's greatest student. |
 | <img src="Images/Characters/sixth_atlas.png" width="100px" /><br>**The Sixth Atlas** | ??? | A friend or foe you shall encounter in the Known World. Based on your decisions. |
 
 
