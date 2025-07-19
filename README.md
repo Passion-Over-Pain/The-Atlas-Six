@@ -13,7 +13,7 @@ Welcome to the **preview** repository for **The Atlas Six**, an immersive RPG ga
 - [Project Vision](#project-vision)
 - [Game Features](#game-features)
 - [Character Overview](#character-overview)
-- [Technologies Used](#technologies-used)
+- [World Overview](#world-overview)
 - [Installation Guide](#installation-guide)
 - [Contributing](#contributing)
 - [License](#license)
@@ -65,15 +65,21 @@ Each member of the **Atlas Six** has a distinct background, personality, and rol
 
 
 ---
-## Technologies Used
+## World Overview
 
-| Technology            | Description                                          |
-|-----------------------|------------------------------------------------------|
-| HTML                  | Structure of the game content and pages              |
-| CSS                   | Styling for UI and animations                        |
-| JavaScript            | Game logic, event handling, and animation control    |
-| Firebase              | User authentication for sign-in and sign-up          |
-| IntersectionObserver  | Animation performance optimization                   |
+Welcome to the **Known World** — a realm of rich cultures, ancient conflicts, and elemental forces that shape the fate of every living being. This is a place where tradition meets arcane power, where alliances are fragile and the past haunts the present. 
+
+At the heart of this world lie five great **Kingdoms**, each with its own strength, history, and vision for the future. As tensions rise and war looms on the horizon, the balance between peace and power teeters dangerously.
+
+### The Five Kingdoms
+
+| Kingdom   | Emblem | Description |
+|-----------|--------|-------------|
+| **Aurelia** | 🌿✨ | A kingdom of radiant forests and shimmering lakes, Aurelia thrives on harmony and abundance. Ruled by councils of scholars and spiritual leaders, its people live in tune with nature and wield water and nature-based magic. Known for their healing arts and bountiful harvests, Aurelia is often viewed as the peaceful heart of the Known World. Despite their diplomatic nature, they are not naïve — their wisdom is ancient and strategic. Aurelia maintains good relations with Valdora, but remains wary of the growing tensions elsewhere. |
+| **Eryndor** | 🏔️⚔️ | Forged in stone and flame, Eryndor is a harsh land of towering mountains and fortress cities. Known for its elite knights and earth-shaping warriors, Eryndor respects strength above all. Its people are loyal, disciplined, and often at odds with the more arcane ways of other kingdoms. Governed by a military aristocracy, Eryndor’s rigid sense of honor fuels its age-old rivalry with Kurohana, whom they see as undisciplined and deceptive. Their iron mines and warrior culture make them formidable in any conflict. |
+| **Valdora** | 🌲📜 | A realm steeped in mystery and ancient knowledge, Valdora is the heart of magical innovation. Its deep woods and hidden libraries are home to sages, hunters, and arcane scholars. The kingdom is ruled by circles of Archmages and ancient traditions, valuing wisdom above power — but they do not shy from using both. Though on peaceful terms with Aurelia, Valdora seeks knowledge relentlessly, even if it means awakening things best left forgotten. Their mix of magic and survivalism makes them unpredictable but respected. |
+| **Kurohana** | 🔥🌸 | A majestic land of volcanic ranges, sacred temples, and cascading cherry blossoms, Kurohana blends grace with ferocity. Guided by ancestral clans and strict honor codes, its people are masters of fire magic, martial arts, and ornate weaponry. Every fabric, blade, and ritual is a symbol of pride. Despite its internal discipline, Kurohana is volatile on the world stage — its hatred for Eryndor runs deep, rooted in cultural conflict and past betrayals. Their artistry in war is matched only by their breathtaking beauty. |
+| **Hollowind** | ⚙️🌩️ | Among lightning-struck towers and clockwork streets, Hollowind stands apart. Wind and shadow magic swirl through its smoggy skies, while inventors and artificers push the boundaries of fantasy tech. Governed by guilds and thinkers rather than monarchs, Hollowind values innovation, secrecy, and profit. Aloof in global affairs, they rarely take sides — but when they do, their machines can shift the tide of any battle. Their silence is unnerving, and their allegiance is never guaranteed. |
 
 ---
 
